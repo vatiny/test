@@ -2,7 +2,7 @@
 
 - 這是我在 vscode 的 git 練習
 
-## 第一次初始化
+## 本地倉第一次初始化
 
   1. 先在本地端初始化 **git init**
   2. 設定遠端倉的位置 **git remote add origin 遠端倉位置**
